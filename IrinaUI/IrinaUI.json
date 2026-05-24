@@ -1,0 +1,13 @@
+{
+  "Author": "Irina Nekotari",
+  "Name": "IrinaUI",
+  "Punchline": "Irina's first attempt at making a UI plugin.",
+  "Description": "Irina's first attempt at making a UI plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/irinanekotari/MaxiUI",
+  "Tags": [
+    "sample",
+    "plugin",
+    "UI"
+  ]
+}
